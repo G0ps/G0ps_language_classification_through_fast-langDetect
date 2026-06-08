@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Local packages / site packages
+site-packages/
+python_libs/
+
+# IDE
+.vscode/
+.idea/
